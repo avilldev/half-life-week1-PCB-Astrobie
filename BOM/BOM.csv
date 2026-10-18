@@ -1,0 +1,8 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+128X64 OLED I2C,1,Alibaba,$1.15,$1.15,https://www.alibaba.com/product-detail/0-96-Inch-OLED-Module-White_1601198774090.html?spm=a2700.prosearch.normal_offer.d_image.682967afhsdOnQ&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=05ce4363f14d482eb0f208be919ad1ec
+MPU6050,1,Alibaba,$1.09,$1.09,https://www.alibaba.com/product-detail/GY-521-MPU-6050-Module-Triaxial_1601115321765.html?spm=a2700.prosearch.normal_offer.d_image.127d67afBWjVm8&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=17b392fcdf3b4fcb89bf8703774ffdd2
+DHT11,1,Alibaba,$0.57,$0.57,https://www.alibaba.com/product-detail/DHT11-Digital-Temperature-and-Humidity-Sensor_1600053358031.html?spm=a2700.prosearch.normal_offer.d_image.100167afkOugAf&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=5dc0f84f4f13491e87d9b57d6bbeed2c
+Cherry MX Mechanical Key,2,Alibaba,$0.15,$0.30,https://www.alibaba.com/product-detail/MX-Cherry-Mechanical-Keyboard-with-Black_1601730062197.html?spm=a2700.prosearch.normal_offer.d_image.c71e67afYj58Pa&priceId=5b7ed05e44824c09ab1f91de8e6c2473
+Seeed XIAO ESP32-C3,1,Alibaba,$5.84,$5.84,https://www.alibaba.com/product-detail/Seeed-Studio-XIAO-ESP32C6-ESP32S3-ESP32S3_1601286855889.html?spm=a2700.prosearch.normal_offer.d_image.4cab67af7E0ApD&priceId=027e427a3ce74c9d8ac60624764c62b1
+PCB,1,JLCPCB,$8.40,$8.40,https://cart.jlcpcb.com/quote?rand=0.4319600932958766
+Estimated total shipping,1,,,$10.00,
