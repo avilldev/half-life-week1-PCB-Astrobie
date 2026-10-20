@@ -16,7 +16,7 @@ The pet wanders around the OLED screen.
 - **Animations:** Each action has an animation. For example, selecting the Dock action triggers a nap cycle with floating "z" characters.
 - **Sensors:** The MPU6050 detects shaking to wake the pet up. The DHT11 reads real-world room temperature and humidity to display in the stats.
 
-# BOM
+## BOM
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [128X64 OLED I2C](https://www.alibaba.com/product-detail/0-96-Inch-OLED-Module-White_1601198774090.html?spm=a2700.prosearch.normal_offer.d_image.682967afhsdOnQ&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=05ce4363f14d482eb0f208be919ad1ec) | OLED Screen | 1 | $1.15 | $1.15 | [Alibaba](https://www.alibaba.com/product-detail/0-96-Inch-OLED-Module-White_1601198774090.html?spm=a2700.prosearch.normal_offer.d_image.682967afhsdOnQ&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=05ce4363f14d482eb0f208be919ad1ec) |
