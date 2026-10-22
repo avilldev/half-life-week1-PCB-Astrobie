@@ -2,6 +2,8 @@
 
 <img width="1107" height="591" alt="image" src="https://github.com/user-attachments/assets/92e583c3-61ee-4a26-b361-74ed3de60a20" />
 
+
+
 ## What it is
 
 Astrobie is a custom-designed PCB digital pet powered by a Seeed XIAO ESP32-C3. This project was made for the first-week PCB submission for Hackclub's [Half Life](https://halflife.hackclub.com/?ref=1941)
@@ -11,6 +13,8 @@ It features a UFO-themed circuit board, a 128x64 OLED screen displaying an alien
 ## How it works
 
 The pet wanders around the OLED screen.
+
+<img width="179.75" height="147.25" alt="image" src="https://github.com/user-attachments/assets/c11d96c1-968b-4100-891f-b286220b329a" />
 
 - **Motion Control:** After pressing the menu button, the board can be tilted to select actions such as Fuel, Fly, Scan, or Dock.
 - **Animations:** Each action has an animation. For example, selecting the Dock action triggers a nap cycle with floating "z" characters.
